@@ -11,3 +11,9 @@
 5. Añado archivo al staging area, hago commit y push
 
 [Commit y push](/screenshots/sincronizacion.png)
+
+9. Se mergea development en main
+10. Se resuelven conflictos
+11. Se hace push de los cambios  
+
+[Merge](/screenshots/merge.png)
