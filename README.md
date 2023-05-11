@@ -10,4 +10,10 @@
 
 5. Añado archivo al staging area, hago commit y push
 
-[Commit y push](/screenshots/sincronizacion.png)
+[Commit y push](/screenshots/commit.png)
+
+6. Creo rama nueva 
+7. Cambio a la rama nueva
+8. hago commit y push a github
+
+[Cambios en rama development](/screenshots/rama.png)
